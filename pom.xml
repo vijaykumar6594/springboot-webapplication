@@ -48,11 +48,6 @@
                  <version>2.2.0</version>
                  <inherited>false</inherited>
     </plugin>
-			<plugin>
-        <groupId>org.sonarsource.scanner.maven</groupId>
-        <artifactId>sonar-maven-plugin</artifactId>
-        <version>4.0.0.4121</version>
-      </plugin>
 		</plugins>
 	</build>
 </project>
