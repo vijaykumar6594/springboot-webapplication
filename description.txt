@@ -1,8 +1,9 @@
 #Sonarqube quality check
 
+Use below tools and versions accordingly
 
-jdk -11
-sonarqube-8.9
-sonar scanner -3.9.1.2184
+1-jdk -11
+2-sonarqube-8.9
+3-sonar scanner -3.9.1.2184
 
   
